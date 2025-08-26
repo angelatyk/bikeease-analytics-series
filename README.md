@@ -11,7 +11,7 @@ Developed as part of a structured AI/ML bootcamp curriculum, these notebooks sho
 #### `01_data_preprocessing_and_visualization.ipynb`  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Jv4Edvjz9h5Gn6p95YQpFl2o5OL9yAVe?usp=sharing)
 
-[View on GitHub](https://github.com/angelatyk/angelatyk.github.io)
+[View on GitHub](https://github.com/angelatyk/bikeease-analytics-series/blob/main/notebooks/01_data_preprocessing_and_visualization.ipynb)
 
 
 Covered **data cleaning, processing, and exploratory analysis** for BikeEase’s bike rental dataset.
@@ -29,7 +29,7 @@ Key highlights:
 #### `02_regression_modeling.ipynb`  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rWuogFj0ocw7kfJPswlTIiailR-VRgQJ?usp=sharing)
 
-[View on GitHub](https://github.com/angelatyk/angelatyk.github.io)
+[View on GitHub](https://github.com/angelatyk/bikeease-analytics-series/blob/main/notebooks/02_regression_modeling.ipynb)
 
 Focused on **predictive modeling** of hourly bike rentals using regression techniques.
 
@@ -47,7 +47,7 @@ Key highlights:
 #### `03_cnn_image_classification.ipynb`  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NAInb-2-HpCyj8lqdMF0c5I_siFP_PB3?usp=sharing)
 
-[View on GitHub](https://github.com/angelatyk/angelatyk.github.io)
+[View on GitHub](https://github.com/angelatyk/bikeease-analytics-series/blob/main/notebooks/03_cnn_image_classification.ipynb)
 
 Applied **computer vision techniques** to classify images of bikes and cars using a **Convolutional Neural Network (CNN)**.
 
@@ -98,9 +98,9 @@ Key highlights:
 The following datasets were used throughout the BikeEase project series:  
 
 - **Bike Rental Dataset** – Hourly bike rental data including weather, seasonality, and operational factors.  
-  - Source: [Link to dataset](DatasetLinks-to-external-site)  
+  - Source: [Link to dataset](https://github.com/angelatyk/bikeease-analytics-series/blob/main/data/01_data_preprocessing_and_visualization/FloridaBikeRentals.csv)  
 - **Cars and Bikes Prediction Dataset** – Images of bikes and cars for CNN image classification.  
-  - Source: [Link to dataset](DatasetLinks-to-external-site)  
+  - Source: [Link to dataset](https://github.com/angelatyk/bikeease-analytics-series/blob/main/data/03_cnn_image_classification/images.zip)  
 - **Customer Reviews Dataset** – Text data containing BikeEase customer reviews for NLP sentiment analysis.  
   - Source: [Link to dataset](DatasetLinks-to-external-site)  
 
