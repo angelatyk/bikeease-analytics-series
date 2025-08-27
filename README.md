@@ -40,7 +40,7 @@ Key highlights:
 - Evaluated models using **cross-validation** and standard metrics (MAE, MSE, R²).  
 - Derived insights on key factors influencing bike rental demand.  
 
-**Tech:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook, Joblib.
+**Tech:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook, Joblib
 
 ---
 
@@ -102,7 +102,7 @@ The following datasets were used throughout the BikeEase project series:
 - **Cars and Bikes Prediction Dataset** – Images of bikes and cars for CNN image classification.  
   - Source: [Link to dataset](https://github.com/angelatyk/bikeease-analytics-series/blob/main/data/03_cnn_image_classification/images.zip)  
 - **Customer Reviews Dataset** – Text data containing BikeEase customer reviews for NLP sentiment analysis.  
-  - Source: [Link to dataset](DatasetLinks-to-external-site)  
+  - Source: [Link to dataset](https://github.com/angelatyk/bikeease-analytics-series/blob/main/data/04_nlp_sentiment_analysis/bike_rental_reviews.csv)  
 
 ## Repository Structure
 The repository is organized to make it easy to follow the project series and access related data and visualizations. You can download the data for each notebook, upload it as-is to the notebook, and run the code without additional setup. 
