@@ -65,6 +65,8 @@ Key highlights:
 #### `04_nlp_sentiment_analysis.ipynb`  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1lqh5WKUVpd19o5x6YTc8_7tpYGZ_XgxW?usp=sharing)  
 
+[View on GitHub](https://github.com/angelatyk/bikeease-analytics-series/blob/main/notebooks/04_nlp_sentiment_analysis.ipynb)
+
 Developed an **NLP pipeline** to analyze BikeEase customer reviews, performing **sentiment classification** and **topic extraction**.
 
 Key highlights:  
@@ -79,7 +81,9 @@ Key highlights:
 ---
 
 #### `05_llm_advertisement_generation.ipynb`  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<username>/<repo>/blob/main/notebooks/05_llm_advertisement_generation.ipynb)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iFCaQvJXLAVEXoz9T_03LBKBpypJNkhH?usp=sharing)  
+
+[View on GitHub](https://github.com/angelatyk/bikeease-analytics-series/blob/main/notebooks/05_llm_advertisement_generation.ipynb)
 
 Implemented a **Generative AI pipeline** to automatically create marketing advertisements for BikeEase using Large Language Models (LLMs).
 
