@@ -40,7 +40,7 @@ Key highlights:
 - Evaluated models using **cross-validation** and standard metrics (MAE, MSE, R²).  
 - Derived insights on key factors influencing bike rental demand.  
 
-**Tech:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook, Joblib
+**Tech:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 ---
 
@@ -94,7 +94,7 @@ Key highlights:
 - Generated creative advertisements using **local Hugging Face models**, integrating prompt engineering for optimal outputs.  
 - Evaluated and optimized ad quality, persuasiveness, and relevance.  
 
-**Tech:** Python, Pandas
+**Tech:** Python, PyTorch, Hugging Face Transformers, Hugging Face Pipeline, LangChain (PromptTemplate, HuggingFacePipeline, LLMChain), Pydantic, Generative AI, Large Language Models (LLMs)
 
 ---
 
