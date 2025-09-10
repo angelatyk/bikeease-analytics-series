@@ -122,13 +122,11 @@ The repository is organized to make it easy to follow the project series and acc
 │   ├── 02_regression_modeling/
 │   ├── 03_cnn_image_classification/
 │   ├── 04_nlp_sentiment_analysis/
-│   └── 05_llm_advertisement_generation/
 │
 ├── images/                                     # screenshots for each notebook
 │   ├── 01_data_preprocessing_and_visualization/
 │   ├── 02_regression_modeling/
 │   ├── 03_cnn_image_classification/
-│   ├── 04_nlp_sentiment_analysis/
 │   └── 05_llm_advertisement_generation/ 
 │
 └── README.md
